@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Research and Development Cell Website**
 
-- 🌱 I’m currently learning **Prisma, and API Integration**
+- 🌱 I’m currently learning **Prisma, and Payment Integration**
 
 - 👯 I’m looking to collaborate on **Frontend Engineer**
 
