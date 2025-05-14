@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
-- 💬 Ask me about **,Next Js,React Js,JavaScript,Backend Architecture, API endpoints,Full Tools Builds**
+- 💬 Ask me about **Next Js, React Js, JavaScript, Backend Architecture, API endpoints, Full Stack Built-in Tools**
 
 - 📫 How to reach me **manijhaneswar@gmail.com**
 
