@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Research and Development Cell Website**
 
-- 🌱 I’m currently learning **Prisma, and Payment Integration**
+- 🌱 I’m currently learning **SEO optimization,Accessibility, Website Performance Optimization and Payment Integration**
 
-- 👯 I’m looking to collaborate on **Frontend Engineer**
+- 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
-- 💬 Ask me about **TailwindCss,React Js,JavaScript,Backend**
+- 💬 Ask me about **,Next Js,React Js,JavaScript,Backend Architecture, API endpoints,Full Tools Builds**
 
 - 📫 How to reach me **manijhaneswar@gmail.com**
 
